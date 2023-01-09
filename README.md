@@ -1,7 +1,7 @@
 <h1 align="center"> Hospedagem de cursos </h1>
 
 <p style='text-align: justify;'> 
-Um sistema para hospedar cursos similar a plataforma da Hotmart feito para aperfeiçoar os estudos e treinar o framework Django no sistema operacional Linux.
+Um sistema para hospedar cursos similar a plataforma da Hotmart e Udemy feito para aperfeiçoar os estudos e treinar o framework Django no sistema operacional Linux.
 
 <br>
 
