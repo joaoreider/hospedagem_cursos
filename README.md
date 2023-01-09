@@ -15,6 +15,7 @@ Um sistema para hospedar cursos similar a plataforma da Hotmart e Udemy feito pa
 - ``Python, Js, html, css, Bootstrap``
 - ``Geração de token com sha256``
 - ``Pillow para manipulação de imagens e videos``
+- ``Comentários e avaliações em aulas``
 
 
 
