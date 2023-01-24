@@ -224,3 +224,8 @@ Footer navigation
 nutri-lab/.gitignore at main · joaoreider/nutri-lab
 
 token.txt
+
+
+# Django
+media/
+static/
