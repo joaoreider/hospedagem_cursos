@@ -22,7 +22,7 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG', cast=bool, default = False)
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['j6628p.vps-kinghost.net', '177.153.64.168', 'http://j6628p.vps-kinghost.net']
 
 
 # Application definition
